@@ -3,7 +3,7 @@ package collectionframework;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class Linked_List {
+public class Linked_List_03 {
     public static void main(String[] args) {
         LinkedList ls = new LinkedList();
 
